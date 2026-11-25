@@ -44,7 +44,7 @@ Analysis of Zomato restaurant data to understand how ratings, pricing, cuisines 
 - The results show associations, not causes
 
 ## Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](zomato_dashboard_screenshot.png)
 
 ## Repository Files
 - `zomato_clean.csv`: cleaned dataset
