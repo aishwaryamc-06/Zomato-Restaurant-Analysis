@@ -23,7 +23,7 @@ Analysis of Zomato restaurant data to understand how ratings, pricing, cuisines 
 5. Built a Power BI dashboard with KPI cards, charts and slicers
 
 ## Key Findings
-- The dataset has 9,551 restaurants; 2,148 (22.5%) are unrated and were excluded from rating averages
+- The dataset has 9,557 restaurants; 2,148 (22.5%) are unrated and were excluded from rating averages
 - The average rating among rated restaurants is 3.44 out of 5
 - About 25.7% of restaurants offer online delivery
 - Delivery availability varies by price range:
