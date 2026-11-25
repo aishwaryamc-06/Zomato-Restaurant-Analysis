@@ -4,7 +4,7 @@ Analysis of Zomato restaurant data to understand how ratings, pricing, cuisines 
 
 ## Dataset
 - Source: Zomato Restaurants Data (Kaggle)
-- Size: 9,551 restaurant records, 21 columns
+- Size: 9,557 restaurant records, 21 columns
 - Fields include city, cuisines, price range, aggregate rating, votes, online delivery and table booking
 
 ## Tools Used
